@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664870151299",
+    "project_id": "cashflow-7ad1f",
+    "storage_bucket": "cashflow-7ad1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664870151299:android:d2328039cafd552db667b6",
+        "android_client_info": {
+          "package_name": "com.application.cashflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gw92tTOieMBmYsBM0bP4W9TsL4R1rLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
